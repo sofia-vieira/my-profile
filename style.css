@@ -1,0 +1,52 @@
+body {
+	background-color: pink 
+}
+
+
+h1 {
+	color: orange;
+    font-family: Times, serif;
+    letter-spacing: 20px;
+    font-size: 90px;
+    text-transform: capitalize;
+    font-weight: 100;
+ }
+
+p { 
+	color: hsla(340, 83%, 56%, 0.66);
+    font-size: larger;
+ }
+
+ h2 { 
+	font-size: xx-large;
+    color: #4CAF50;
+    font-family: tahoma;
+    font-weight: unset;
+    letter-spacing: 10px;
+    text-decoration: overline;
+    border-radius: 3px;
+  }
+
+  a {
+  	color: black;
+    text-decoration: blink;
+    font-weight: bolder;
+    font-size: medium;
+  }
+
+a:hover{
+	color: orange
+
+}
+
+div{
+	background: floralwhite;
+    padding: 75px;
+    margin: 50px 50px;
+    border-radius: 3px;
+ }
+
+
+
+
+
